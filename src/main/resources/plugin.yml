@@ -1,0 +1,5 @@
+name: StackDesigner
+version: '1.0'
+main: me.syncwrld.minecraft.stackdesigner.StackDesigner
+api-version: '1.13'
+author: syncwrld

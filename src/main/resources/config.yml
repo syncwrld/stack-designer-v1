@@ -1,0 +1,12 @@
+# StackDesigner by syncwrld #
+#      www.syncwrld.me      #
+
+options:
+  debug: false
+
+executions:
+  edit-item: 'edititem|sdei'
+  edit-hand: 'edithand|sdeh'
+  create-item: 'createitem|sdci'
+  give-item: 'giveitem|sdgi'
+  export-category: 'exportcategory|sdex'
